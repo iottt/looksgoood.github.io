@@ -6,7 +6,7 @@ baseurl: ''
 url: 'https://iottt.github.io'
 timezone: Asia/Seoul 
 
-repository: iottt/iottt.github.io
+repository: iottt/looksgoood.github.io
 
 permalink: /:year/:month/:day/:title/
 
