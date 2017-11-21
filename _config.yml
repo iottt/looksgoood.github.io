@@ -1,4 +1,4 @@
-title: looksgoood
+title: iottt
 email: looksgoood12@gmail.com
 description: |
   회사원이 아닌 개발자가 되보자.
@@ -6,7 +6,7 @@ baseurl: ''
 url: 'https://iottt.github.io'
 timezone: Asia/Seoul 
 
-repository: iottt/looksgoood.github.io
+repository: iottt/iottt.github.io
 
 permalink: /:year/:month/:day/:title/
 
